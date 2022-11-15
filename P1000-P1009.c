@@ -1,3 +1,7 @@
+#define _CRT_SECURE_NO_WARNINGS
+
+
+
 #if 0 // 1000 [week03] 연습 1 : 함수와, 함수의 인자로서의 변수(add)
 #include <stdio.h>
 
